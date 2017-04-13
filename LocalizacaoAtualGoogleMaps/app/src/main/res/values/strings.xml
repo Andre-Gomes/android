@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="default_info_title">Localização Padrão</string>
+    <string name="default_info_snippet">Nenhum local encontrado. Permissão de localização está desabilitada.</string>
+    <string name="option_get_place">Buscar Local</string>
+    <string name="pick_place">Escolha um local</string>
+    <string name="lblLongitude">Longitude:</string>
+    <string name="btnLocalizar">Localizar</string>
+
+    <string name="app_name">LocalizacaoAtualGMaps</string>
+    <string name="title_activity_maps">Localização Atual Google Maps</string>
+    <string name="lblLatitude">Latitude:</string>
+    <string name="lblLongitue">Longitude:</string>
+    <string name="lblBtnPesquisa">Pesquisar:</string>
+</resources>
