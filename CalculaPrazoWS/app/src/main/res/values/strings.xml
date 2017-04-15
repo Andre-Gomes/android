@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CalculaPrazoWS</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblCepOrigem">CEP de Origem: </string>
+    <string name="lblCepDestino">CEP de Destino: </string>
+    <string name="lblTipoServico">Tipo de Serviço: </string>
+    <string name="btnCalcular">Calcular </string>
+    <string name="lblPrazo">Prazo: </string>
+    <string name="lblEntregaSabado">Entrega aos Sábados?: </string>
+    <string name="btnE">Calcular </string>
+    <string name="lblTipoServicoPopUp">Escolha o serviço</string>
+
+    <string name="lblPeso">Peso: </string>
+    <string name="lblComprimento">Comprimento (cm): </string>
+    <string name="lblCodigoFormatado">Cód Formato: </string>
+    <string name="lblAltura">Altura (cm): </string>
+    <string name="lblLargura">Largura (cm): </string>
+    <string name="lblDiametro">Diâmetro (cm): </string>
+    <string name="lblMaoPropria">Serv. Adicional Mão própria?: </string>
+    <string name="lblValorDeclarado">Valor declarado: </string>
+    <string name="lblAvisoRecebimento">Aviso Recebimento?</string>
+
+    <!-- Para alimentar a caixa de seleção -->
+    <string-array name="arrTipoServicos">
+        <item>SEDEX Varejo</item>
+        <item>SEDEX a Cobrar Varejo</item>
+        <item>SEDEX 10 Varejo</item>
+        <item>SEDEX Hoje Varejo</item>
+        <item>PAC Varejo</item>
+    </string-array>
+    <string-array name="arrSimNao">
+        <item>S</item>
+        <item>N</item>
+    </string-array>
+    <string-array name="arrCdFormato">
+        <item>Caixa/Pacote</item>
+        <item>Rolo/Prisma</item>
+        <item>Envelope</item>
+    </string-array>
+</resources>
