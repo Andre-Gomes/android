@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PesoIdeal</string>
+    <string-array name="arrSexo">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+    <string name="btnCalcular">Calcular IMC</string>
+</resources>
